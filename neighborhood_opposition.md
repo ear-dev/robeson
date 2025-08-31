@@ -35,6 +35,8 @@ This document outlines the key arguments against City Realty's development propo
 
 ![Parking Lot Deterioration](./images/plot_deterioration.png)
 
+![Parking Lot Deterioration](./images/driveway_yard_with_holes.png)
+
 ![Front Yard](./images/parquet_front.png)
 
 ![Trash in back](./images/trash_back2.png)
