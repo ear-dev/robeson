@@ -33,8 +33,6 @@ This document outlines the key arguments against City Realty's development propo
 - Property maintenance issues including trash accumulation and parking lot deterioration
 - Unreliable and misleading plans regarding parking, slope assessment, and rear staircase
 
-![Garbage](./images/garbage_cans_robeson.png)
-
 ![Parking Lot Deterioration](./images/plot_deterioration.png)
 
 ![Front Yard](./images/parquet_front.png)
