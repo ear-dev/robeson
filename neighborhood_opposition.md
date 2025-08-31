@@ -93,13 +93,3 @@ This document outlines the key arguments against City Realty's development propo
 
 ## Community Perspective
 Every other residential building in this neighborhood is owner-occupied. City Realty's persistent attempts to extract profit from this parcel highlights the difference between resident homeowners who want to improve the community and developers who prioritize profit over community impact.
-
-## Presentation Strategy
-A short PowerPoint with minimal text and illustrative photos is recommended to make these arguments compelling. Neighbors should be invited to contribute additional documentation and sign on to create a unified opposition document.
-
-## Needed Documentation
-- Photos of the lot
-- Images of trash, garbage cans, parking lot deterioration
-- Photo of rear staircase to be replaced for parking spots
-- Geological reports
-- Building detail documentation
