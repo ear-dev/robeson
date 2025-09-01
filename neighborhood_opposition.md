@@ -2,15 +2,18 @@
 # Neighborhood Opposition to City Realty's 18 Robeson St Proposal
 
 ## Executive Summary
-This document outlines the key arguments against City Realty's development proposal for 18 Robeson St, supported by neighborhood residents. The opposition is based on zoning concerns, potential structural damage to surrounding properties, environmental impact, the developer's poor track record, and lack of community benefit.
+This document outlines the central elements of the community’s opposition to City Realty's development proposal for a new single-family structure at the rear of 18 Robeson Street.  The positions outlined here are supported by residents of the immediate neighborhood and the wider community. The community’s opposition to this project is based on impacts to the community (especially abutters), potential structural damage and other negative impacts to surrounding properties, environmental impacts, lack of counterbalancing benefits to the community or the City, the developer's poor track record, and zoning concerns.
 
 ## Key Opposition Points
 
 ### 1. Non-Buildable Lot Status
+- The rear of 18 Robeson is a non-buildable lot.
 - City Realty has attempted for 12 years to overcome zoning challenges
+- City Realty recorded a sub-division plan for a new (non-conforming) lot in 2018, to be known as “21 Rocky Nook Terrace”
+- The current proposal is to carve out a section of the 18 Robeson Parcel and construct a new residential structure on it
 - Current proposal includes a convoluted single-family condo arrangement
-- The lot is not comparable to 16R Robeson St in size
-- 16R was a separately deeded lot
+- The “18R” lot is not comparable to 16R Robeson Street in size
+- The 16R lot was deeded separately to the owner of 16 Robeson
 
 ![Trees on the property](./images/Trees.png)
 
@@ -29,9 +32,14 @@ This document outlines the key arguments against City Realty's development propo
 ### 3. Developer's Poor Track Record
 - City Realty has been a troublesome neighbor
 - Refused to remove deteriorated, dangerous barn for years
-- Inspectional Services failed to enforce removal requirements
+- Inspectional Services failed to enforce removal requirements for many years
+- When finally forced to remove the barn due to hazardous conditions, created new hidden hazardous conditions on lot
+- Created or allowed hazardous conditions to remain on the property for more than a decade
 - Property maintenance issues including trash accumulation and parking lot deterioration
-- Unreliable and misleading plans regarding parking, slope assessment, and rear staircase
+- Widely known reputation for misrepresentations, shoddy construction, poor maintenance, etc.
+- Unreliable and misleading plans regarding construction program, parking, slope assessment, and rear staircase
+
+![Shed](./images/shed.png)
 
 ![Parking Lot Deterioration](./images/plot_deterioration.png)
 
@@ -46,7 +54,7 @@ This document outlines the key arguments against City Realty's development propo
 
 ### 4. Lack of Community Benefit
 - No compelling purpose beyond developer profit
-- Does not address neighborhood need for affordable housing
+- Does not address City’s need for affordable housing
 
 ### 5. United Neighborhood Opposition
 - Residents are united in opposition to this development
@@ -64,17 +72,16 @@ This document outlines the key arguments against City Realty's development propo
 - See reference sheets A-2.1 and A-3.01
 
 ### Tree and Environmental Impact
-- Requires removal of several mature trees on site
-- Will likely kill a very large tree located on 22 Robeson Street's parcel
-- Images provided by City Realty show a large tree remaining along the property line between 18 Robeson and 16R Robeson that will likely be removed or killed during construction
-- Further loss of privacy for Rocky Nook residents and 16R Robeson
+- Further loss of privacy for Rocky Nook and Robeson Street residents
+- Additional density, with associated noise, parking and other issues
+- No clear drainage plan; disruption of natural aquaduct running through the puddingstone hill
+- Likely drainage issues for 16 and 16 R Robeson, as well as 17 Rocky Nook Terrace
 
 ### Terrain and Site Plan Concerns
 - Low confidence in City Realty's depiction of the building and site layout
 - Misrepresentation of the terrain and steep slope of pudding rock along the property line
 - Plans fail to show terrain beyond the retaining walls (see sheets A-3.00, A-3.01, A-3.02, A-2.1)
 - Unclear handling of slope between building and 17 Rocky Nook parcel
-- No clear drainage plan; disruption of natural aquaduct running through the puddingstone hill
 - Maximum elevation shown as 114', but this appears to be at the retaining wall, not the property line
 - Sheet A-3.02 shows elevation maxing at 114' behind parking area, falling short of property line
 
