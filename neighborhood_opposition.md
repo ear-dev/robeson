@@ -45,6 +45,8 @@ This document outlines the central elements of the community’s opposition to C
 
 ![Parking Lot Deterioration](./images/driveway_yard_with_holes.png)
 
+![Garbage cans](./images/garbage_cans_front.png)
+
 ![Front Yard](./images/parquet_front.png)
 
 ![Trash in back](./images/trash_back2.png)
