@@ -151,6 +151,7 @@ The following residents have signed on to this opposition presentation:
 - **Justin Kehoe** - 26 Robeson Street
 - **Molly Seamans** - 26 Robeson Street
 - **Carol Marton** - 30 Robeson Street
+- **Lydia Lee** - 30 Robeson
 - **Katherine Castañeda Macdonald** - 26 Robeson Street
 
 ### Tenants of 18 Robeson Street
