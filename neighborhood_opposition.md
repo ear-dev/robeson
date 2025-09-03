@@ -111,63 +111,53 @@ The following residents have signed on to this opposition presentation:
 
 ### Abutting Properties
 
-| Name | Address | Status |
-|------|---------|--------|
-| Clare Conley | 17 Rocky Nook Terrace | Abutter |
-| Ethan Cole | 17 Rocky Nook Terrace | Abutter |
-| Marilyn Arsem | 14 Rocky Nook Terrace | Abutter |
-| Glenda Yoder | 22 Robeson Street | Abutter |
-| Freida Yoder | 22 Robeson Street | Abutter |
+- **Clare Conley** - 17 Rocky Nook Terrace (Abutter)
+- **Ethan Cole** - 17 Rocky Nook Terrace (Abutter)
+- **Marilyn Arsem** - 14 Rocky Nook Terrace (Abutter)
+- **Glenda Yoder** - 22 Robeson Street (Abutter)
+- **Freida Yoder** - 22 Robeson Street (Abutter)
 
 ### Rocky Nook Terrace Residents
 
-| Name | Address |
-|------|---------|
-| Gabriel Rice | 6 Rocky Nook Terrace |
-| Deborah Boldin | 6 Rocky Nook Terrace |
-| Eric Rosenthal | 10 Rocky Nook Terrace |
-| Jessica Talamas | 11 Rocky Nook Terrace |
-| Julia Halperin | 11 Rocky Nook Terrace |
-| Jason Cortlund | 11 Rocky Nook Terrace |
-| Mel Rico | 11 Rocky Nook Terrace |
-| Jasper Sanchez | 14 Rocky Nook Terrace |
-| Keith Becker | 14 Rocky Nook Terrace |
-| Geoff Pfeifer | 15 Rocky Nook Terrace |
-| Molly Below | 15 Rocky Nook Terrace |
-| Beth Abelow | 15 Rocky Nook Terrace |
-| Jerry Abelow | 15 Rocky Nook Terrace |
+- **Gabriel Rice** - 6 Rocky Nook Terrace
+- **Deborah Boldin** - 6 Rocky Nook Terrace
+- **Eric Rosenthal** - 10 Rocky Nook Terrace
+- **Jessica Talamas** - 11 Rocky Nook Terrace
+- **Julia Halperin** - 11 Rocky Nook Terrace
+- **Jason Cortlund** - 11 Rocky Nook Terrace
+- **Mel Rico** - 11 Rocky Nook Terrace
+- **Jasper Sanchez** - 14 Rocky Nook Terrace
+- **Keith Becker** - 14 Rocky Nook Terrace
+- **Geoff Pfeifer** - 15 Rocky Nook Terrace
+- **Molly Below** - 15 Rocky Nook Terrace
+- **Beth Abelow** - 15 Rocky Nook Terrace
+- **Jerry Abelow** - 15 Rocky Nook Terrace
 
 ### Glen Road Residents
 
-| Name | Address |
-|------|---------|
-| Birgit Hartje | 43 Glen Road |
-| Mary (Marie) Regan | 46 Glen Road |
-| Kathy Evans | 52 Glen Road |
-| Jon Mangat-Rai | 52 Glen Road |
+- **Birgit Hartje** - 43 Glen Road
+- **Mary (Marie) Regan** - 46 Glen Road
+- **Kathy Evans** - 52 Glen Road
+- **Jon Mangat-Rai** - 52 Glen Road
 
 ### Robeson Street Residents
 
-| Name | Address |
-|------|---------|
-| Adam Smith | 12 Robeson Street |
-| David Nichol | 12 Robeson Street |
-| Sarena Nichol | 12 Robeson Street |
-| Sean Pulsfort | 26 Robeson Street |
-| Ross Kochman | 26 Robeson Street |
-| Justin Kehoe | 26 Robeson Street |
-| Molly Seamans | 26 Robeson Street |
-| Carol Marton | 30 Robeson Street |
+- **Adam Smith** - 12 Robeson Street
+- **David Nichol** - 12 Robeson Street
+- **Sarena Nichol** - 12 Robeson Street
+- **Sean Pulsfort** - 26 Robeson Street
+- **Ross Kochman** - 26 Robeson Street
+- **Justin Kehoe** - 26 Robeson Street
+- **Molly Seamans** - 26 Robeson Street
+- **Carol Marton** - 30 Robeson Street
 
 ### Tenants of 18 Robeson Street
 
-| Name | Address |
-|------|---------|
-| Wiley Spears | 18 Robeson Street |
-| Casey Stewart | 18 Robeson Street |
-| Sophia Samaha | 18 Robeson Street |
-| Madeline Evans | 18 Robeson Street |
-| Fatima Tourk | 18 Robeson Street |
-| Adele Andrews | 18 Robeson Street |
-| Anastasia Barrett | 18 Robeson Street |
-| Tyler Passerine | 18 Robeson Street |
+- **Wiley Spears** - 18 Robeson Street
+- **Casey Stewart** - 18 Robeson Street
+- **Sophia Samaha** - 18 Robeson Street
+- **Madeline Evans** - 18 Robeson Street
+- **Fatima Tourk** - 18 Robeson Street
+- **Adele Andrews** - 18 Robeson Street
+- **Anastasia Barrett** - 18 Robeson Street
+- **Tyler Passerine** - 18 Robeson Street
