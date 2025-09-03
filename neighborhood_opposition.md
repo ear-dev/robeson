@@ -162,3 +162,4 @@ The following residents have signed on to this opposition presentation:
 - **Adele Andrews** - 18 Robeson Street
 - **Anastasia Barrett** - 18 Robeson Street
 - **Tyler Passerine** - 18 Robeson Street
+- **Valerie Farley** - 18 Robeson Street
