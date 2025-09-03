@@ -145,6 +145,7 @@ The following residents have signed on to this opposition presentation:
 - **Adam Smith** - 12 Robeson Street
 - **David Nichol** - 12 Robeson Street
 - **Sarena Nichol** - 12 Robeson Street
+- **Rita Jo Horsley** - 16 Robeson Street
 - **Sean Pulsfort** - 26 Robeson Street
 - **Ross Kochman** - 26 Robeson Street
 - **Justin Kehoe** - 26 Robeson Street
